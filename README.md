@@ -47,16 +47,14 @@ uvicorn main:app --reload --host 0.0.0.0
 
 ## How to Run the Model
 
-1. **Clone the Repository:**
-   git clone https://github.com/VijayShankarSN/Potato-Disease-Prediction.git
 
-3. **Navigate to Project Directory:**
+4. **Navigate to Project Directory:**
    cd Potato-Disease-Prediction
 
-4. **Run**
+5. **Run**
    main.py
 
-5. Open Google Chrome or any other web browser.
+
 
 
 6. **Access Localhost:**
