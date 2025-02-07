@@ -1,4 +1,4 @@
-[Watch Demo Video](https://youtu.be/gThWBqbo4KA)
+
 
 ## Setup for Python
 
@@ -19,13 +19,13 @@ pip3 install -r api/requirements.txt
 
 ## Training the Model
 
-1. **Download the data from [Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).**
-2. Only keep folders related to Potatoes.
-3. Run Jupyter Notebook in your browser.
-4. Open `training.ipynb` in Jupyter Notebook.
-5. In cell #3, update the path to the dataset.
-6. Run all the cells one by one.
-7. Copy the generated model and save it with the version number in the `models` folder.
+
+1. Only keep folders related to Potatoes.
+2. Run Jupyter Notebook in your browser.
+3. Open `training.ipynb` in Jupyter Notebook.
+4. In cell #3, update the path to the dataset.
+5. Run all the cells one by one.
+6. Copy the generated model and save it with the version number in the `models` folder.
 
 ## Running the API
 
@@ -117,4 +117,4 @@ The project is structured into distinct components for seamless integration and 
 
 Potato Disease Prediction represents a significant advancement in precision agriculture, offering farmers a reliable tool for early disease detection and mitigation. By harnessing the power of machine learning and web technologies, this project contributes to enhancing crop yield, reducing losses, and promoting sustainable farming practices. Explore the repository on GitHub to learn more and contribute to the future of agricultural innovation.
 
-Inspiration: https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions
+thank you tech saksham -CSR INITIATIVE
